@@ -1,1 +1,1 @@
-This is Arit's prject
+My second git project
